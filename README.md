@@ -10,7 +10,6 @@
   <p align="center">
     一个使用SecretFlow框架和MLP模型来进行神经网络训练和预测的项目！  
     <br />
-    Team:Gryffindor
     <br />
     <a href="https://github.com/YnRen22852/secretflowgryffindor"><strong>探索本项目的文档 »</strong></a>
     <br />
